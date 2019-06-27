@@ -1,0 +1,14 @@
+AppCSXCAD
+build/include/CSXCAD
+build/include/openEMS
+build/include/QCSXCAD
+CSXCAD/src
+hyp2mat/lib
+openEMS
+openEMS/Common
+openEMS/FDTD
+openEMS/FDTD/extensions
+openEMS/nf2ff
+openEMS/tools
+QCSXCAD
+QCSXCAD/wizard
